@@ -7,3 +7,5 @@ console.log(obj)
 console.log(newObj)
 
 delete newObj.foo
+
+console.log(newObj)
